@@ -94,11 +94,9 @@ Admin dashboard with full control over the system:
 
 ## 🎥 Live Demo / Video Walkthrough
 
- <iframe width="560" height="315"
-src="https://youtu.be/OHUwL4zsJeY" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+   [![Watch the video][(https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)](https://youtu.be/OHUwL4zsJeY)
+
+
 
 
 ---

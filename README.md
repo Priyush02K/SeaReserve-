@@ -80,7 +80,9 @@ Admin dashboard with full control over the system:
 ### 📊 Sub Admins
 ![photo-collage png](https://github.com/user-attachments/assets/f70a9875-667b-4218-92dd-4c6e6e587f65)
 
-### 📊 Booking List
+### 📊 Boat
+![photo-collage](https://github.com/user-attachments/assets/c1cbf3af-8e3a-47cb-8b50-b409ebc8549d)
+
 
 ### 📊 Booking List
 ![Booking List](screenshots/bookings.png)

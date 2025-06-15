@@ -72,7 +72,7 @@ Admin dashboard with full control over the system:
 > 🖼️ _You can add your actual screenshots below:_
 
 ### 💻 User Home Page
-![Home Page](screenshots/home.png)
+![Home Page]([photo-collage png](https://github.com/user-attachments/assets/d32bd389-dc55-44af-9185-16b593c38f7a))
 
 ### 🔐 Admin Dashboard
 ![Admin Dashboard](screenshots/dashboard.png)
@@ -104,6 +104,30 @@ Admin dashboard with full control over the system:
 
 
 ---
+
+## 💻 How to Run on Your Local Machine
+### 🔧 Prerequisites
+- PHP >= 7.x
+- MySQL / XAMPP / MAMP / WAMP
+- Composer (optional for PDF/Excel export libraries)
+- Git (to clone the repository)
+
+### 📥 Steps to Run Locally
+
+1. **Clone the Repo**
+
+      ```bash
+      git clone https://github.com/Priyush02K/SeaReserve-.git
+
+2. **Move the Project to Server Directory**
+
+If you're using XAMPP, move it to:
+
+makefile
+Copy
+Edit
+C:\xampp\htdocs\SeaReserve
+
 
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or add.

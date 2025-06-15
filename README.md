@@ -94,7 +94,7 @@ Admin dashboard with full control over the system:
 
 ## 🎥 Live Demo / Video Walkthrough
 
-👉 [Watch the Demo on YouTube]([https://www.youtube.com/watch?v=your-demo-link-here](https://youtu.be/OHUwL4zsJeY))
+👉 ([https://www.youtube.com/watch?v=your-demo-link-here](https://youtu.be/OHUwL4zsJeY))
 
 ---
 

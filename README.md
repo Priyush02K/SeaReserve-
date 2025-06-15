@@ -110,7 +110,6 @@ Admin dashboard with full control over the system:
 ---
 
 
----
 
 ## 💻 How to Run on Your Local Machine
 ### 🔧 Prerequisites

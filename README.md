@@ -93,8 +93,8 @@ Admin dashboard with full control over the system:
 ---
 
 ## 🎥 Live Demo / Video Walkthrough
+[https://www.youtube.com/watch?v=OHUwL4zsJeY&ab_channel=PRIYUSHKHOBRAGADE ](https://youtu.be/OHUwL4zsJeY) 
 
-[![Watch the video]()]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/OHUwL4zsJeY))
 
 ---
 

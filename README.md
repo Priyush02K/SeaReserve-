@@ -77,6 +77,11 @@ Admin dashboard with full control over the system:
 ### 🔐 Admin Dashboard
 ![image](https://github.com/user-attachments/assets/501e1793-de9c-4e35-9fee-5be6b74f211a)
 
+### 📊 Sub Admins
+![photo-collage png](https://github.com/user-attachments/assets/f70a9875-667b-4218-92dd-4c6e6e587f65)
+
+### 📊 Booking List
+
 ### 📊 Booking List
 ![Booking List](screenshots/bookings.png)
 

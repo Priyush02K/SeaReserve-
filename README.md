@@ -85,10 +85,10 @@ Admin dashboard with full control over the system:
 
 
 ### 📊 Booking List
-![Booking List](screenshots/bookings.png)
+![photo-collage png](https://github.com/user-attachments/assets/f13a5f72-66ca-4767-a101-b6462579a35f)
 
-### 📥 Add New Boat
-![Add Boat](screenshots/add-boat.png)
+
+
 
 ---
 

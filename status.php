@@ -128,7 +128,7 @@ while($result=mysqli_fetch_array($query)){
                     <span class="badge bg-warning text-dark">Not Processed Yet</span>
                   <?php elseif($result['BookingStatus']=='Accepted'): ?>
                     <span class="badge bg-success">Accepted</span>
-                    <?php elseif($result['Rejected']=='Rejected'): ?>
+                    <?php elseif($result['BookingStatus']=='Rejected'): 0?>
                       <span class="badge bg-danger">Rejected</span>
                     <?php endif;?></td>
                     <th>

@@ -102,4 +102,17 @@ Admin dashboard with full control over the system:
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🤝 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or add.
+
+---
+
+## 📧 Contact
+For any queries or support, please reach out via the [Contact Page](#) or email us at `support@seareserve.com`.
+
+---
+
+**Made with ❤️ by Priyush Khobragade**

@@ -72,7 +72,7 @@ Admin dashboard with full control over the system:
 > 🖼️ _You can add your actual screenshots below:_
 
 ### 💻 User Home Page
-(https://github.com/user-attachments/assets/d32bd389-dc55-44af-9185-16b593c38f7a)
+![photo-collage png](https://github.com/user-attachments/assets/8d8879eb-ee19-4bfa-a340-7da2c5f97074)
 
 ### 🔐 Admin Dashboard
 ![Admin Dashboard](screenshots/dashboard.png)
